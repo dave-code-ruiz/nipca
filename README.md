@@ -2,6 +2,8 @@
 
 Home Assistant custom component for NIPCA-compatible cameras. I only use and update @yottatsa code https://github.com/yottatsa/hass_nipca and use for my dlink camera.
 
+# ATTENTION ! Actually this integration have a problem that gui stops working or goes very slow 
+
 Usage
 =====
 
